@@ -1,7 +1,7 @@
 import { Form, Contacts, Filter } from 'components';
 import React, { Component } from 'react';
 import shortid from 'shortid';
-// import PropTypes from 'prop-types';
+
 
 export class App extends Component {
   state = {
